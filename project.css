@@ -1,0 +1,21 @@
+body{
+	background: url(https://atgbcentral.com/data/out/48/4318361-gaming-wallpapers-hd.jpg);
+	background-size: cover;
+}
+#content{
+	text-align: center;
+}
+html{
+	height: 100%;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+	color:red;
+}
+h3{
+	color:blue;
+}
+.button{
+	color: blue;
+}

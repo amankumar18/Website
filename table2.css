@@ -1,0 +1,30 @@
+body{
+	font-size: 11px;
+	background-image :url(https://wallpaperplay.com/walls/full/2/2/b/210587.jpg);
+	background-size: cover; 
+}
+table{
+	widt
+}
+table,th,td{
+	border: 1px solid black;
+    border-collapse:collapse;
+    opacity: 0.85;
+}
+th,td{
+	padding: 10px;
+	text-align: center;
+}
+th{
+	background-color: #a77777;
+}
+tr:nth-child(even){
+	background-color: #e8e8e8;
+}
+tr:nth-child(odd){
+	background-color: white;
+}
+#header{
+	background-color: #088db8;
+	color: white;
+}
